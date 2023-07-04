@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  3 17:15:36 2023
-
-@author: david
-"""
 
 def calculate_final_amount(allocations, returns, monthly_payment, time_period):
     num_months = time_period * 12
